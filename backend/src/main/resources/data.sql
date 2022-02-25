@@ -14,3 +14,6 @@ INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 2);
 INSERT INTO tb_user_role (user_id, role_id) VALUES (3, 3);
 
 INSERT INTO tb_course (name, img_Uri, img_Gray_Uri) VALUES ('Bootcamp HTML', 'https://blog.coursify.me/wp-content/uploads/2019/10/create-videos-online-courses-cover-coursifyme.jpg', 'https://inpaonline.com.br/wp-content/uploads/2019/10/online-course-8-899132.png');
+
+INSERT INTO tb_offer (edition, start_Moment, end_Moment, course_id) VALUES ('1.0', TIMESTAMP WITH TIME ZONE '2022-07-13T03:00:00', TIMESTAMP WITH TIME ZONE '2023-07-13T03:00:00', 1);
+INSERT INTO tb_offer (edition, start_Moment, end_Moment, course_id) VALUES ('2.0', TIMESTAMP WITH TIME ZONE '2022-09-25T03:00:00', TIMESTAMP WITH TIME ZONE '2023-09-25T03:00:00', 1);
