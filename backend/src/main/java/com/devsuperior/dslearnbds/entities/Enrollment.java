@@ -69,11 +69,11 @@ public class Enrollment {
 		this.refundMoment = refundMoment;
 	}
 
-	public boolean isAvalible() {
+	public boolean isAvailable() {
 		return available;
 	}
 
-	public void setAvalible(boolean available) {
+	public void setAvailable(boolean available) {
 		this.available = available;
 	}
 
