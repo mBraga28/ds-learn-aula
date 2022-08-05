@@ -24,5 +24,21 @@ Com relação ao fórum de perguntas e respostas, este consiste em uma coleção
 ●	Marcar/desmarcar melhor resposta (somente autor do tópico e instrutor) </br>
 </ol>
 
+<h3>Tópicos sobre autenticação e autorização  no projeto </h3>
+<ol>●	Autorização customizada em nível de serviço. Exemplo:
+<ul>
+  <li> Usuário pode acessar user/{id} somente se for o id dele</li>
+  <li> Admin pode acessar user/{id} de todos usuários</li>
+</ul>
+●	Conteúdo customizado para usuário logado. Exemplo:
+<ul>
+  <li>  ○	Ao acessar /notifications, devem ser retornadas somente as notificações do próprio usuário logado</li>
+</ul>
+●	Refresh token </br>
+●	Pré-autorizando métodos por perfil de usuário
+</ol>
+
 <h3>Modelo Conceitual </h3>
 ![image](https://user-images.githubusercontent.com/92943261/182998153-0ff96ced-c0ec-4a7d-a86d-667c6d6f247a.png)
+
+
