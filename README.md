@@ -39,6 +39,7 @@ Com relação ao fórum de perguntas e respostas, este consiste em uma coleção
 </ol>
 
 <h3>Modelo Conceitual </h3>
-![image](https://user-images.githubusercontent.com/92943261/182998153-0ff96ced-c0ec-4a7d-a86d-667c6d6f247a.png)
+<img align="center" height="600" width="600" src="https://user-images.githubusercontent.com/92943261/182998153-0ff96ced-c0ec-4a7d-a86d-667c6d6f247a.png">
+
 
 
